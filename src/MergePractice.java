@@ -8,7 +8,7 @@ public class MergePractice {
 		System.out.println("Hello World");
 		System.out.println("My name is zach");
 		
-		System.out.println("My name is Steven");
+		System.out.println("same line");
 	}
 	
 }
